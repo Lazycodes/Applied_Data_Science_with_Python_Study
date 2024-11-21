@@ -18,9 +18,9 @@ The courses in this specialization emphasize learning by doing and apply concept
 
 This specialization consists of the following courses:
 
-1.  **Introduction to Data Science in Python**
+1. **Introduction to Data Science in Python**
    - Focus on using NumPy and Pandas for Data Preparation
-3.  **Applied Plotting, Charting, and Data Representation with Python**
+2. **Applied Plotting, Charting, and Data Representation with Python**
    - Focus on using Matplotlib and Seaborn for data visualization.
 3. **Applied Machine Learning in Python**
    - Introduction to machine learning techniques using Scikit-learn.
