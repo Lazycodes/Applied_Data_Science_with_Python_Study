@@ -53,7 +53,7 @@ To use this repository and run the notebooks, you will need to have Python and t
 ## Installation
 
 To get started with this repository, clone it to your local machine:  
-- code: git clone https://github.com/Lazycodes/Applied_Data_Science_with_Python_Study.git
+- code: git clone https://github.com/AsuquoAA/Applied_Data_Science_with_Python_Study.git
 
 Navigating to directory
 - code: cd Applied_Data_Science_with_Python_Study
